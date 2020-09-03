@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## https://catalog.data.gov/dataset
+This site hosts the U.S. Government's open data. This is a great resource for finding free open source data sets you can use to add to your data analysis, creating richer, more in-depth connections.
 
-You can use the [editor on GitHub](https://github.com/karenrobinett/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##https://github.com/hadley/ggplot2-book
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karenrobinett/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ggplt2: Elegant graphics for Data Analysis by Hadley Wickham is a beginner level book introducing people to the ggplt2 R package. This looks particularly interesting because it is focused on data visualization and introduces a tool I am not familiar with.
