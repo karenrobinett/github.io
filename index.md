@@ -3,4 +3,4 @@ This site hosts the U.S. Government's open data. This is a great resource for fi
 
 **https://github.com/hadley/ggplot2-book**
 
-ggplt2: Elegant graphics for Data Analysis by Hadley Wickham is a beginner level book introducing people to the ggplt2 R package. This looks particularly interesting because it is focused on data visualization and introduces a tool I am not familiar with.
+ggplot2: Elegant graphics for Data Analysis by Hadley Wickham is a beginner level book introducing people to the ggplot2 R package. This looks particularly interesting because it is focused on data visualization and introduces a tool I am not familiar with.
